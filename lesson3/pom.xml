@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.canoo.javafx.workshop</groupId>
+        <artifactId>javafx-parent</artifactId>
+        <version>1.0.0</version>
+        <relativePath>../common</relativePath>
+    </parent>
+
+    <artifactId>lesson3</artifactId>
+    <name>lesson3</name>
+    <packaging>jar</packaging>
+
+    <properties>
+       <javafx.main.classname>lesson3.Lesson3Main</javafx.main.classname>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.airhacks</groupId>
+            <artifactId>afterburner.fx</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
+</project>

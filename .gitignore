@@ -1,0 +1,12 @@
+build
+target
+staging
+.idea
+.gradle
+*.iml
+*.iws
+*.ipr
+*.bak
+.project
+.classpath
+.settings

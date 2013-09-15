@@ -1,0 +1,9 @@
+apply from: '../common/setup.gradle'
+
+javafx {
+    mainClass 'lesson3.Lesson3Main'
+}
+
+dependencies {
+    compile 'com.airhacks:afterburner.fx:1.0'
+}
