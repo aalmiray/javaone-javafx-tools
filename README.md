@@ -4,7 +4,7 @@ http://www.oracle.com/technetwork/java/javafx/tools/index.html
 
 ### Gradle
 
-http://speling.shemnon.com/
+http://bitbucket.org/shemnon/javafx-gradle
 
 ### Maven
 
